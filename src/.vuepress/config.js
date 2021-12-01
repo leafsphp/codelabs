@@ -22,7 +22,34 @@ const sidebar = {
         '/contributing/template'
       ]
     }
-  ]
+  ],
+  authExperiments: [
+    {
+      title: 'Links',
+      collapsable: true,
+      children: [
+        '/intro/',
+        '/experiments/',
+        '/contributing/',
+      ]
+    },
+    {
+      title: 'Leaf 2',
+      collapsable: false,
+      children: [
+        '/experiments/auth/leaf2/api/',
+        '/experiments/auth/leaf2/session/',
+      ]
+    },
+    {
+      title: 'Leaf 3',
+      collapsable: false,
+      children: [
+        '/experiments/auth/leaf3/api/',
+        '/experiments/auth/leaf3/session/',
+      ]
+    },
+  ],
 }
 
 module.exports = {
@@ -210,6 +237,7 @@ module.exports = {
       collapsable: true,
       '/intro/': sidebar.codelabs,
       '/contributing/': sidebar.codelabs,
+      '/experiments/auth/': sidebar.authExperiments,
       '/experiments/': sidebar.experiments,
     },
     smoothScroll: true,

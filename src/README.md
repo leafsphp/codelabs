@@ -16,7 +16,7 @@ features:
   - title: Interactive 👨🏾‍🏫
     details: Codelabs provides interactive tutorials that hold your hand through a process.
   - title: Open ☃️
-    details: We don't only provide tutorials on leaf, but also in-depth tutorials on PHP as well.
+    details: We don't only provide tutorials on leaf, but also in-depth tutorials on PHP/JS as well.
   - title: Beginner-Friendly ⚡️
     details: We guide you through a topic and everything you need to know to complete it successfully.
 footer: |

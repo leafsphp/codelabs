@@ -10,13 +10,15 @@ Below is a list of experiment topics.
 
 ## Topics
 
-| Topic                             | Description                                                        |
-| :-------------------------------- | :----------------------------------------------------------------- |
-| [Hosting](/experiments/hosting/)  | Experiments related to web/API hosting                             |
-| [Auth](/experiments/auth/)        | Experiments related to web/API authentication                      |
-| [caching](/experiments/caching/)  | Experiments related to web/API caching                             |
-| [JS](/experiments/javascript/)    | Experiments related to javascript                                  |
-| [WS](/experiments/websocket/)     | Experiments related to websockets                                  |
+| Topic                                 | Description                                                        |
+| :------------------------------------ | :----------------------------------------------------------------- |
+| [Hosting](/experiments/hosting/)      | Experiments related to web/API hosting                             |
+| [Auth](/experiments/auth/)            | Experiments related to web/API authentication                      |
+| [Form Validation](/experiments/form/) | Experiments related to form validation                             |
+| [caching](/experiments/caching/)      | Experiments related to web/API caching                             |
+| [JS](/experiments/javascript/)        | Experiments related to javascript                                  |
+| [WS](/experiments/websocket/)         | Experiments related to websockets                                  |
+| [Mail](/experiments/mail/)            | Experiments related to mailing                                     |
 
 ## Contributing
 
