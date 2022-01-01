@@ -190,7 +190,7 @@ module.exports = {
             items: [
               {
                 text: 'Blog',
-                link: 'https://leafphp.dev/blog/'
+                link: 'https://blog.leafphp.dev/'
               },
               {
                 text: 'Team',
