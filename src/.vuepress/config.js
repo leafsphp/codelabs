@@ -224,7 +224,7 @@ module.exports = {
       },
       {
         text: 'Support Leaf',
-        link: '/support/'
+        link: 'https://leafphp.dev/support/'
       }
     ],
     repo: 'leafsphp/docs',
@@ -238,7 +238,7 @@ module.exports = {
       '/intro/': sidebar.codelabs,
       '/contributing/': sidebar.codelabs,
       '/experiments/auth/': sidebar.authExperiments,
-      '/experiments/': sidebar.experiments,
+      '/experiments/': sidebar.experiments
     },
     smoothScroll: true,
     algolia: {
